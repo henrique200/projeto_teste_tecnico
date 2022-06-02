@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "goAnnotations",
+    "slug": "goAnnotations",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "goAnnotations"
+}
